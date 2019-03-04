@@ -1,11 +1,10 @@
 site:
   title: TaucherDoc  Demo Site
   # the 404 page and sitemap files only get generated when the url property is set
-  url: https://taucherdoc.org/docs
-  start_page: ROOT::index.adoc
+  url: taucherdoc.org/docs
 content:
   sources:
-  - url: https://https://github.com/ukubauka/TaucherDoc.git
+  - url: https://github.com/ukubauka/TaucherDoc.git
     branches: Antora
 ui:
   bundle:
